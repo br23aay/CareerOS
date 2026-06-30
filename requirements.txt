@@ -1,0 +1,12 @@
+requests>=2.31
+SQLAlchemy>=2.0
+
+# Phase 2+ (install when you wire these up):
+# playwright>=1.44      # browser automation (application dept)
+# reportlab>=4.0        # real PDF generation (resume dept)
+streamlit>=1.35        # web dashboard (frontend/app.py)
+# google-api-python-client google-auth-oauthlib   # Gmail monitor
+python-docx>=1.1
+openpyxl>=3.1
+pandas>=2.0
+duckduckgo-search>=6.0

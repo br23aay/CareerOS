@@ -1,0 +1,602 @@
+2026-06-26 03:10:18,775  orchestrator.ceo        === CareerOS run — Bharadwaj Rachuri ===
+2026-06-26 03:10:29,109  job.collector           Collected 173 jobs.
+2026-06-26 03:10:29,111  job.cleaner             Cleaned: 144/173 kept.
+2026-06-26 03:10:29,117  verify.ghost            Ghost score 0 (looks genuine): Machine Learning Engineer
+2026-06-26 03:10:29,134  verify.ghost            Ghost score 0 (looks genuine): Machine Learning Engineer
+2026-06-26 03:10:29,141  verify.ghost            Ghost score 0 (looks genuine): Staff Software Engineer - Machine Learning
+2026-06-26 03:10:29,149  verify.ghost            Ghost score 0 (looks genuine): Machine Learning Engineer - Defence
+2026-06-26 03:10:29,156  verify.ghost            Ghost score 0 (looks genuine): Senior Machine Learning Engineer
+2026-06-26 03:10:29,164  verify.ghost            Ghost score 0 (looks genuine): Senior Machine Learning Engineer
+2026-06-26 03:10:29,173  verify.ghost            Ghost score 0 (looks genuine): Machine Learning Engineer
+2026-06-26 03:10:29,180  verify.ghost            Ghost score 0 (looks genuine): MLOps Engineer / Machine Learning Engineer
+2026-06-26 03:10:29,187  verify.ghost            Ghost score 0 (looks genuine): SC Cleared Machine Learning Engineer
+2026-06-26 03:10:29,194  verify.ghost            Ghost score 0 (looks genuine): Machine Learning Ops Engineer
+2026-06-26 03:10:29,202  verify.ghost            Ghost score 0 (looks genuine): Machine Learning Ops Engineer
+2026-06-26 03:10:29,208  verify.ghost            Ghost score 0 (looks genuine): Machine Learning Engineer
+2026-06-26 03:10:29,214  verify.ghost            Ghost score 0 (looks genuine): Machine Learning Engineer
+2026-06-26 03:10:29,221  verify.ghost            Ghost score 0 (looks genuine): Machine Learning Engineer
+2026-06-26 03:10:29,227  verify.ghost            Ghost score 0 (looks genuine): Machine Learning Engineer
+2026-06-26 03:10:29,233  verify.ghost            Ghost score 0 (looks genuine): Machine Learning Engineer
+2026-06-26 03:10:29,241  verify.ghost            Ghost score 0 (looks genuine): Junior AI Engineer
+2026-06-26 03:10:29,246  verify.ghost            Ghost score 0 (looks genuine): AI Engineer
+2026-06-26 03:10:29,252  verify.ghost            Ghost score 0 (looks genuine): Trainee AI Engineer - job guarantee
+2026-06-26 03:10:29,259  verify.ghost            Ghost score 0 (looks genuine): Junior AI Engineer - job guarantee
+2026-06-26 03:10:29,267  verify.ghost            Ghost score 0 (looks genuine): AI Engineer
+2026-06-26 03:10:29,275  verify.ghost            Ghost score 0 (looks genuine): AI Engineer
+2026-06-26 03:10:29,282  verify.ghost            Ghost score 0 (looks genuine): AI Engineer
+2026-06-26 03:10:29,289  verify.ghost            Ghost score 0 (looks genuine): AI Engineer
+2026-06-26 03:10:29,300  resume.pdf              Wrote cover_24_Salt_Search.txt
+2026-06-26 03:10:29,735  resume_factory.tailor   Tailored resume -> CV_Salt_Search_AI_Engineer.docx (ATS keywords covered: 2)
+2026-06-26 03:10:29,742  apply.browser           Application prepared; held at human-approval gate.
+2026-06-26 03:10:29,754  track.applications      Job 24 -> matched
+2026-06-26 03:10:29,755  verify.ghost            Ghost score 0 (looks genuine): AI Engineer
+2026-06-26 03:10:29,762  verify.ghost            Ghost score 0 (looks genuine): AI Engineer
+2026-06-26 03:10:29,766  verify.ghost            Ghost score 0 (looks genuine): AI Engineer
+2026-06-26 03:10:29,773  verify.ghost            Ghost score 0 (looks genuine): AI Engineer
+2026-06-26 03:10:29,782  verify.ghost            Ghost score 0 (looks genuine): Data/AI Engineer
+2026-06-26 03:10:29,790  verify.ghost            Ghost score 0 (looks genuine): Senior AI Engineer
+2026-06-26 03:10:29,796  verify.ghost            Ghost score 0 (looks genuine): AI Engineer
+2026-06-26 03:10:29,804  verify.ghost            Ghost score 0 (looks genuine): AI Engineer - Cardiff
+2026-06-26 03:10:29,815  verify.ghost            Ghost score 0 (looks genuine): Trainee AI Engineer
+2026-06-26 03:10:29,822  verify.ghost            Ghost score 0 (looks genuine): Data Science Trainee
+2026-06-26 03:10:29,831  verify.ghost            Ghost score 0 (looks genuine): Data Scientist
+2026-06-26 03:10:29,839  resume.pdf              Wrote cover_35_Ocho.txt
+2026-06-26 03:10:29,998  resume_factory.tailor   Tailored resume -> CV_Ocho_Data_Scientist.docx (ATS keywords covered: 3)
+2026-06-26 03:10:30,002  apply.browser           Application prepared; held at human-approval gate.
+2026-06-26 03:10:30,008  track.applications      Job 35 -> matched
+2026-06-26 03:10:30,009  verify.ghost            Ghost score 0 (looks genuine): Data Scientist
+2026-06-26 03:10:30,018  verify.ghost            Ghost score 0 (looks genuine): Data Scientist
+2026-06-26 03:10:30,024  verify.ghost            Ghost score 0 (looks genuine): Data Scientist
+2026-06-26 03:10:30,031  verify.ghost            Ghost score 0 (looks genuine): Senior Data Scientist
+2026-06-26 03:10:30,036  verify.ghost            Ghost score 0 (looks genuine): Lead Data Scientist
+2026-06-26 03:10:30,044  verify.ghost            Ghost score 0 (looks genuine): Principal Data Scientist
+2026-06-26 03:10:30,051  verify.ghost            Ghost score 0 (looks genuine): Data Scientist
+2026-06-26 03:10:30,058  verify.ghost            Ghost score 0 (looks genuine): Data Scientist
+2026-06-26 03:10:30,065  resume.pdf              Wrote cover_43_Yolk_Recruitment_Ltd.txt
+2026-06-26 03:10:30,197  resume_factory.tailor   Tailored resume -> CV_Yolk_Recruitment_Ltd_Data_Scientist.docx (ATS keywords covered: 2)
+2026-06-26 03:10:30,203  apply.browser           Application prepared; held at human-approval gate.
+2026-06-26 03:10:30,212  track.applications      Job 43 -> matched
+2026-06-26 03:10:30,216  verify.ghost            Ghost score 0 (looks genuine): Data Scientist
+2026-06-26 03:10:30,222  verify.ghost            Ghost score 0 (looks genuine): Principle Data Scientist
+2026-06-26 03:10:30,229  verify.ghost            Ghost score 0 (looks genuine): Head of Data Science
+2026-06-26 03:10:30,239  verify.ghost            Ghost score 0 (looks genuine): Python Developer
+2026-06-26 03:10:30,247  resume.pdf              Wrote cover_47_Noir.txt
+2026-06-26 03:10:30,351  resume_factory.tailor   Tailored resume -> CV_Noir_Python_Developer.docx (ATS keywords covered: 2)
+2026-06-26 03:10:30,354  apply.browser           Application prepared; held at human-approval gate.
+2026-06-26 03:10:30,360  track.applications      Job 47 -> matched
+2026-06-26 03:10:30,361  verify.ghost            Ghost score 0 (looks genuine): Python Developer
+2026-06-26 03:10:30,368  resume.pdf              Wrote cover_48_Adecco.txt
+2026-06-26 03:10:30,489  resume_factory.tailor   Tailored resume -> CV_Adecco_Python_Developer.docx (ATS keywords covered: 1)
+2026-06-26 03:10:30,494  apply.browser           Application prepared; held at human-approval gate.
+2026-06-26 03:10:30,503  track.applications      Job 48 -> matched
+2026-06-26 03:10:30,505  verify.ghost            Ghost score 0 (looks genuine): Python Developer - Contract
+2026-06-26 03:10:30,510  verify.ghost            Ghost score 0 (looks genuine): Python Developer- Leatherhead
+2026-06-26 03:10:30,521  resume.pdf              Wrote cover_50_FDM_Group.txt
+2026-06-26 03:10:30,655  resume_factory.tailor   Tailored resume -> CV_FDM_Group_Python_Developer_Leatherhead.docx (ATS keywords covered: 1)
+2026-06-26 03:10:30,661  apply.browser           Application prepared; held at human-approval gate.
+2026-06-26 03:10:30,669  track.applications      Job 50 -> matched
+2026-06-26 03:10:30,672  verify.ghost            Ghost score 0 (looks genuine): Senior Python Developer
+2026-06-26 03:10:30,678  verify.ghost            Ghost score 0 (looks genuine): Backend Python Developer
+2026-06-26 03:10:30,686  resume.pdf              Wrote cover_52_XACT_PLACEMENTS_LIMITED.txt
+2026-06-26 03:10:30,824  resume_factory.tailor   Tailored resume -> CV_XACT_PLACEMENTS_LIMITED_Backend_Python_Developer.docx (ATS keywords covered: 1)
+2026-06-26 03:10:30,829  apply.browser           Application prepared; held at human-approval gate.
+2026-06-26 03:10:30,838  track.applications      Job 52 -> matched
+2026-06-26 03:10:30,840  verify.ghost            Ghost score 0 (looks genuine): Senior Django / Python Developer
+2026-06-26 03:10:30,847  verify.ghost            Ghost score 0 (looks genuine): Python Developer (Automation and Networking)
+2026-06-26 03:10:30,855  resume.pdf              Wrote cover_54_Pontoon.txt
+2026-06-26 03:10:31,011  resume_factory.tailor   Tailored resume -> CV_Pontoon_Python_Developer_Automation_an.docx (ATS keywords covered: 1)
+2026-06-26 03:10:31,017  apply.browser           Application prepared; held at human-approval gate.
+2026-06-26 03:10:31,026  track.applications      Job 54 -> matched
+2026-06-26 03:10:31,029  verify.ghost            Ghost score 0 (looks genuine): Junior Python Developer (Hedge Fund)
+2026-06-26 03:10:31,038  verify.ghost            Ghost score 0 (looks genuine): Data Infrastructure Engineer / Python Developer, London, COR7590
+2026-06-26 03:10:31,046  resume.pdf              Wrote cover_56_Corriculo_Ltd.txt
+2026-06-26 03:10:31,195  resume_factory.tailor   Tailored resume -> CV_Corriculo_Ltd_Data_Infrastructure_Engineer_P.docx (ATS keywords covered: 1)
+2026-06-26 03:10:31,201  apply.browser           Application prepared; held at human-approval gate.
+2026-06-26 03:10:31,207  track.applications      Job 56 -> matched
+2026-06-26 03:10:31,209  verify.ghost            Ghost score 0 (looks genuine): Python Developers - Market Risk Technology AVP & VP
+2026-06-26 03:10:31,217  verify.ghost            Ghost score 0 (looks genuine): Python Software Developer
+2026-06-26 03:10:31,222  verify.ghost            Ghost score 0 (looks genuine): Python Developer - Fixed Income Trading Technology
+2026-06-26 03:10:31,226  verify.ghost            Ghost score 0 (looks genuine): Python Developer
+2026-06-26 03:10:31,233  resume.pdf              Wrote cover_60_Infinity_Quest_UK.txt
+2026-06-26 03:10:31,340  resume_factory.tailor   Tailored resume -> CV_Infinity_Quest_UK_Python_Developer.docx (ATS keywords covered: 1)
+2026-06-26 03:10:31,348  apply.browser           Application prepared; held at human-approval gate.
+2026-06-26 03:10:31,354  track.applications      Job 60 -> matched
+2026-06-26 03:10:31,356  verify.ghost            Ghost score 0 (looks genuine): Python Developer
+2026-06-26 03:10:31,364  resume.pdf              Wrote cover_61_Brio_Digital.txt
+2026-06-26 03:10:31,448  resume_factory.tailor   Tailored resume -> CV_Brio_Digital_Python_Developer.docx (ATS keywords covered: 2)
+2026-06-26 03:10:31,452  apply.browser           Application prepared; held at human-approval gate.
+2026-06-26 03:10:31,457  track.applications      Job 61 -> matched
+2026-06-26 03:10:31,458  verify.ghost            Ghost score 0 (looks genuine): Python Developer
+2026-06-26 03:10:31,464  resume.pdf              Wrote cover_62_Talan.txt
+2026-06-26 03:10:31,614  resume_factory.tailor   Tailored resume -> CV_Talan_Python_Developer.docx (ATS keywords covered: 1)
+2026-06-26 03:10:31,621  apply.browser           Application prepared; held at human-approval gate.
+2026-06-26 03:10:31,630  track.applications      Job 62 -> matched
+2026-06-26 03:10:31,632  verify.ghost            Ghost score 0 (looks genuine): Python Developer
+2026-06-26 03:10:31,640  verify.ghost            Ghost score 0 (looks genuine): Python Developer
+2026-06-26 03:10:31,646  resume.pdf              Wrote cover_64_GCS.txt
+2026-06-26 03:10:31,785  resume_factory.tailor   Tailored resume -> CV_GCS_Python_Developer.docx (ATS keywords covered: 1)
+2026-06-26 03:10:31,791  apply.browser           Application prepared; held at human-approval gate.
+2026-06-26 03:10:31,800  track.applications      Job 64 -> matched
+2026-06-26 03:10:31,801  verify.ghost            Ghost score 0 (looks genuine): Graduate Software Developer Programme
+2026-06-26 03:10:31,809  verify.ghost            Ghost score 0 (looks genuine): Graduate Software Developer Programme (IT)
+2026-06-26 03:10:31,816  verify.ghost            Ghost score 0 (looks genuine): ML Engineer - Selby Jennings
+2026-06-26 03:10:31,821  verify.ghost            Ghost score 0 (looks genuine): Senior AI/ML Engineer (LLM's / RAG Pipeline Development)
+2026-06-26 03:10:31,827  verify.ghost            Ghost score 0 (looks genuine): ML Engineer
+2026-06-26 03:10:31,835  verify.ghost            Ghost score 0 (looks genuine): Senior ML Platform Engineer
+2026-06-26 03:10:31,841  verify.ghost            Ghost score 0 (looks genuine): MLOps/ ML Engineer
+2026-06-26 03:10:31,847  verify.ghost            Ghost score 0 (looks genuine): AI/ML Engineer
+2026-06-26 03:10:31,857  verify.ghost            Ghost score 0 (looks genuine): AI/ML Engineer
+2026-06-26 03:10:31,861  verify.ghost            Ghost score 0 (looks genuine): Lead ML Engineer
+2026-06-26 03:10:31,868  verify.ghost            Ghost score 0 (looks genuine): AI / ML Engineer
+2026-06-26 03:10:31,872  verify.ghost            Ghost score 0 (looks genuine): AI/ML Engineer
+2026-06-26 03:10:31,877  verify.ghost            Ghost score 0 (looks genuine): Senior ML Platform Engineer - Robotics
+2026-06-26 03:10:31,882  verify.ghost            Ghost score 0 (looks genuine): Applied AI ML Engineer
+2026-06-26 03:10:31,887  verify.ghost            Ghost score 0 (looks genuine): Senior AI/ML Engineer
+2026-06-26 03:10:31,891  verify.ghost            Ghost score 0 (looks genuine): Senior AI/ML Engineer
+2026-06-26 03:10:31,895  verify.ghost            Ghost score 0 (looks genuine): Lead AI/ML Engineer
+2026-06-26 03:10:31,901  verify.ghost            Ghost score 0 (looks genuine): AI/ML Engineer, Contract
+2026-06-26 03:10:31,906  verify.ghost            Ghost score 0 (looks genuine): AI/ML Engineer - Fully Remote
+2026-06-26 03:10:31,910  resume.pdf              Wrote cover_83_Mercor.txt
+2026-06-26 03:10:32,015  resume_factory.tailor   Tailored resume -> CV_Mercor_AI_ML_Engineer_Fully_Remote.docx (ATS keywords covered: 1)
+2026-06-26 03:10:32,019  apply.browser           Application prepared; held at human-approval gate.
+2026-06-26 03:10:32,027  track.applications      Job 83 -> matched
+2026-06-26 03:10:32,030  verify.ghost            Ghost score 0 (looks genuine): Robotics Engineer
+2026-06-26 03:10:32,036  resume.pdf              Wrote cover_84_OpenSourced_Ltd.txt
+2026-06-26 03:10:32,130  resume_factory.tailor   Tailored resume -> CV_OpenSourced_Ltd_Robotics_Engineer.docx (ATS keywords covered: 1)
+2026-06-26 03:10:32,135  apply.browser           Application prepared; held at human-approval gate.
+2026-06-26 03:10:32,140  track.applications      Job 84 -> matched
+2026-06-26 03:10:32,140  verify.ghost            Ghost score 0 (looks genuine): Senior Robotics Engineer
+2026-06-26 03:10:32,146  verify.ghost            Ghost score 0 (looks genuine): Robotics Engineer
+2026-06-26 03:10:32,153  resume.pdf              Wrote cover_86_Fuse_Energy.txt
+2026-06-26 03:10:32,259  resume_factory.tailor   Tailored resume -> CV_Fuse_Energy_Robotics_Engineer.docx (ATS keywords covered: 1)
+2026-06-26 03:10:32,267  apply.browser           Application prepared; held at human-approval gate.
+2026-06-26 03:10:32,272  track.applications      Job 86 -> matched
+2026-06-26 03:10:32,273  verify.ghost            Ghost score 0 (looks genuine): Robotics Engineer
+2026-06-26 03:10:32,277  resume.pdf              Wrote cover_87_EFAB_Resourcing_Ltd.txt
+2026-06-26 03:10:32,388  resume_factory.tailor   Tailored resume -> CV_EFAB_Resourcing_Ltd_Robotics_Engineer.docx (ATS keywords covered: 1)
+2026-06-26 03:10:32,393  apply.browser           Application prepared; held at human-approval gate.
+2026-06-26 03:10:32,402  track.applications      Job 87 -> matched
+2026-06-26 03:10:32,404  verify.ghost            Ghost score 0 (looks genuine): Robotics Software Engineer
+2026-06-26 03:10:32,411  resume.pdf              Wrote cover_88_ZENOVO_LTD.txt
+2026-06-26 03:10:32,531  resume_factory.tailor   Tailored resume -> CV_ZENOVO_LTD_Robotics_Software_Engineer.docx (ATS keywords covered: 1)
+2026-06-26 03:10:32,536  apply.browser           Application prepared; held at human-approval gate.
+2026-06-26 03:10:32,542  track.applications      Job 88 -> matched
+2026-06-26 03:10:32,543  verify.ghost            Ghost score 0 (looks genuine): Senior Robotics Software Engineer
+2026-06-26 03:10:32,552  verify.ghost            Ghost score 0 (looks genuine): Senior Robotics Software Engineer
+2026-06-26 03:10:32,561  verify.ghost            Ghost score 0 (looks genuine): PLC, Controls & Robotics Engineer
+2026-06-26 03:10:32,568  resume.pdf              Wrote cover_91_Cartisian_Recruitment.txt
+2026-06-26 03:10:32,725  resume_factory.tailor   Tailored resume -> CV_Cartisian_Recruitment_PLC_Controls_Robotics_Engineer.docx (ATS keywords covered: 1)
+2026-06-26 03:10:32,731  apply.browser           Application prepared; held at human-approval gate.
+2026-06-26 03:10:32,739  track.applications      Job 91 -> matched
+2026-06-26 03:10:32,740  verify.ghost            Ghost score 0 (looks genuine): Senior Controls & Robotics Engineer
+2026-06-26 03:10:32,747  verify.ghost            Ghost score 0 (looks genuine): Senior Robotics Software Engineer (C++ / Data Systems)
+2026-06-26 03:10:32,754  verify.ghost            Ghost score 0 (looks genuine): Sales Engineer (Robotic Systems / Automation)
+2026-06-26 03:10:32,759  resume.pdf              Wrote cover_94_Ernest_Gordon_Recruitment.txt
+2026-06-26 03:10:32,883  resume_factory.tailor   Tailored resume -> CV_Ernest_Gordon_Recruitment_Sales_Engineer_Robotic_Systems.docx (ATS keywords covered: 1)
+2026-06-26 03:10:32,888  apply.browser           Application prepared; held at human-approval gate.
+2026-06-26 03:10:32,895  track.applications      Job 94 -> matched
+2026-06-26 03:10:32,897  verify.ghost            Ghost score 0 (looks genuine): Mechanical Engineer - Robotics Design
+2026-06-26 03:10:32,906  resume.pdf              Wrote cover_95_Newton_Colmore_Consulting_Ltd.txt
+2026-06-26 03:10:33,074  resume_factory.tailor   Tailored resume -> CV_Newton_Colmore_Consulting_Ltd_Mechanical_Engineer_Robotics_D.docx (ATS keywords covered: 1)
+2026-06-26 03:10:33,081  apply.browser           Application prepared; held at human-approval gate.
+2026-06-26 03:10:33,091  track.applications      Job 95 -> matched
+2026-06-26 03:10:33,094  verify.ghost            Ghost score 0 (looks genuine): Robotics Software Engineer
+2026-06-26 03:10:33,102  resume.pdf              Wrote cover_96_Zenovo.txt
+2026-06-26 03:10:33,229  resume_factory.tailor   Tailored resume -> CV_Zenovo_Robotics_Software_Engineer.docx (ATS keywords covered: 1)
+2026-06-26 03:10:33,234  apply.browser           Application prepared; held at human-approval gate.
+2026-06-26 03:10:33,241  track.applications      Job 96 -> matched
+2026-06-26 03:10:33,242  verify.ghost            Ghost score 0 (looks genuine): Robotics Electrical Engineer
+2026-06-26 03:10:33,248  resume.pdf              Wrote cover_97_Hyster-Yale_Group.txt
+2026-06-26 03:10:33,364  resume_factory.tailor   Tailored resume -> CV_Hyster_Yale_Group_Robotics_Electrical_Engineer.docx (ATS keywords covered: 1)
+2026-06-26 03:10:33,370  apply.browser           Application prepared; held at human-approval gate.
+2026-06-26 03:10:33,377  track.applications      Job 97 -> matched
+2026-06-26 03:10:33,379  verify.ghost            Ghost score 0 (looks genuine): Robotics Software Engineer
+2026-06-26 03:10:33,385  resume.pdf              Wrote cover_98_Engineering_Employment.txt
+2026-06-26 03:10:33,580  resume_factory.tailor   Tailored resume -> CV_Engineering_Employment_Robotics_Software_Engineer.docx (ATS keywords covered: 1)
+2026-06-26 03:10:33,587  apply.browser           Application prepared; held at human-approval gate.
+2026-06-26 03:10:33,597  track.applications      Job 98 -> matched
+2026-06-26 03:10:33,599  verify.ghost            Ghost score 0 (looks genuine): Junior Sales Engineer (Robotic Systems / Automation)
+2026-06-26 03:10:33,609  resume.pdf              Wrote cover_99_Ernest_Gordon_Recruitment.txt
+2026-06-26 03:10:33,728  resume_factory.tailor   Tailored resume -> CV_Ernest_Gordon_Recruitment_Junior_Sales_Engineer_Robotic_.docx (ATS keywords covered: 1)
+2026-06-26 03:10:33,734  apply.browser           Application prepared; held at human-approval gate.
+2026-06-26 03:10:33,741  track.applications      Job 99 -> matched
+2026-06-26 03:10:33,742  verify.ghost            Ghost score 0 (looks genuine): Senior Robotics Software Engineer
+2026-06-26 03:10:33,749  verify.ghost            Ghost score 0 (looks genuine): Senior Robotics Research Engineer
+2026-06-26 03:10:33,757  verify.ghost            Ghost score 0 (looks genuine): Principal Deep Learning Researcher
+2026-06-26 03:10:33,764  verify.ghost            Ghost score 0 (looks genuine): Quantitative Researcher - Deep Learning
+2026-06-26 03:10:33,770  verify.ghost            Ghost score 0 (looks genuine): Quantitative Researcher
+2026-06-26 03:10:33,777  verify.ghost            Ghost score 0 (looks genuine): Data Scientist / AI Engineer
+2026-06-26 03:10:33,784  verify.ghost            Ghost score 0 (looks genuine): Data Scientist / AI Engineer (TensorFlow, PyTorch)
+2026-06-26 03:10:33,790  verify.ghost            Ghost score 0 (looks genuine): Senior Data Scientist
+2026-06-26 03:10:33,796  verify.ghost            Ghost score 0 (looks genuine): Data Scientist
+2026-06-26 03:10:33,802  verify.ghost            Ghost score 0 (looks genuine): Lead AI Engineer - Remote
+2026-06-26 03:10:33,806  verify.ghost            Ghost score 0 (looks genuine): Data Scientist
+2026-06-26 03:10:33,811  verify.ghost            Ghost score 0 (looks genuine): Artificial Intelligence Engineer
+2026-06-26 03:10:33,818  verify.ghost            Ghost score 0 (looks genuine): Quantitative Researcher – Machine Learning (UK)
+2026-06-26 03:10:33,824  verify.ghost            Ghost score 0 (looks genuine): Data Analyst Trainee
+2026-06-26 03:10:33,830  verify.ghost            Ghost score 0 (looks genuine): Trainee Data Analyst
+2026-06-26 03:10:33,836  verify.ghost            Ghost score 0 (looks genuine): Data Analyst
+2026-06-26 03:10:33,841  verify.ghost            Ghost score 0 (looks genuine): Data Analyst
+2026-06-26 03:10:33,845  verify.ghost            Ghost score 0 (looks genuine): Data Analyst
+2026-06-26 03:10:33,851  verify.ghost            Ghost score 0 (looks genuine): Data Analyst
+2026-06-26 03:10:33,856  verify.ghost            Ghost score 0 (looks genuine): Data Analyst
+2026-06-26 03:10:33,862  verify.ghost            Ghost score 0 (looks genuine): Data Analyst
+2026-06-26 03:10:33,867  verify.ghost            Ghost score 0 (looks genuine): Data Analyst Trainee
+2026-06-26 03:10:33,874  verify.ghost            Ghost score 0 (looks genuine): Data Analyst
+2026-06-26 03:10:33,879  verify.ghost            Ghost score 0 (looks genuine): Data Analyst
+2026-06-26 03:10:33,888  verify.ghost            Ghost score 0 (looks genuine): Data Analyst
+2026-06-26 03:10:33,895  verify.ghost            Ghost score 0 (looks genuine): Data Analyst
+2026-06-26 03:10:33,902  verify.ghost            Ghost score 0 (looks genuine): Data Analyst
+2026-06-26 03:10:33,908  verify.ghost            Ghost score 0 (looks genuine): Data Analyst
+2026-06-26 03:10:33,914  verify.ghost            Ghost score 0 (looks genuine): Principal Research Engineer
+2026-06-26 03:10:33,920  verify.ghost            Ghost score 0 (looks genuine): Security Research Engineer
+2026-06-26 03:10:33,927  verify.ghost            Ghost score 0 (looks genuine): Principal Research Engineer - Systems Engineering
+2026-06-26 03:10:33,935  verify.ghost            Ghost score 0 (looks genuine): Principal Research Engineer - Process Development
+2026-06-26 03:10:33,941  verify.ghost            Ghost score 0 (looks genuine): Senior Research Engineer - Process Development
+2026-06-26 03:10:33,947  verify.ghost            Ghost score 0 (looks genuine): Embedded Software Research Engineer
+2026-06-26 03:10:33,952  verify.ghost            Ghost score 0 (looks genuine): Research & Development Engineer
+2026-06-26 03:10:33,957  verify.ghost            Ghost score 0 (looks genuine): Research Engineer
+2026-06-26 03:10:33,962  verify.ghost            Ghost score 0 (looks genuine): Research Engineer
+2026-06-26 03:10:33,969  verify.ghost            Ghost score 0 (looks genuine): Research  Development Engineer- Plastics
+2026-06-26 03:10:33,976  verify.ghost            Ghost score 0 (looks genuine): Python Research Engineer- Sophisticated Prop Trading Firm
+2026-06-26 03:10:33,982  verify.ghost            Ghost score 0 (looks genuine): Research & Development Engineer
+2026-06-26 03:10:33,988  verify.ghost            Ghost score 0 (looks genuine): Fuel Research Engineer
+2026-06-26 03:10:33,992  verify.ghost            Ghost score 0 (looks genuine): Mechanical Research Engineer
+2026-06-26 03:10:34,000  verify.ghost            Ghost score 0 (looks genuine): AI Research Engineer
+2026-06-26 03:10:34,007  verify.ghost            Ghost score 0 (looks genuine): AI Research Engineer
+2026-06-26 03:10:34,012  verify.ghost            Ghost score 0 (looks genuine): Senior Research Engineer
+2026-06-26 03:10:34,018  orchestrator.ceo        Prepared 25 applications (held at approval gate).
+2026-06-27 01:36:10,440  verify.ghost            Ghost score 15 (looks genuine): Graduate AI Engineer
+2026-06-27 01:36:10,444  verify.ghost            Ghost score 100 (likely ghost): AI Engineer
+2026-06-27 01:36:10,444  salary.compensation     Base £22,000 is below your floor £28,000 — needs manual approval.
+2026-06-27 01:36:10,444  apply.browser           Application prepared; held at human-approval gate.
+2026-06-27 01:37:16,059  verify.ghost            Ghost score 15 (looks genuine): Graduate AI Engineer
+2026-06-27 01:37:16,059  verify.ghost            Ghost score 100 (likely ghost): AI Engineer
+2026-06-27 01:37:16,060  salary.compensation     Base £22,000 is below your floor £28,000 — needs manual approval.
+2026-06-27 01:37:16,060  apply.browser           Application prepared; held at human-approval gate.
+2026-06-27 02:06:41,775  track.email             No Gmail token set — monitor idle (reuse Tony's read-only OAuth in Phase 4).
+2026-06-27 02:14:04,808  track.email             No Gmail token set — monitor idle (reuse Tony's read-only OAuth in Phase 4).
+2026-06-27 16:21:03,875  track.email             No Gmail token set — monitor idle (reuse Tony's read-only OAuth in Phase 4).
+2026-06-29 02:52:40,917  google_auth_oauthlib.flow  "GET /?state=1Z9BcU0TWc5PzvniFob82Agwh4rPA2&iss=https://accounts.google.com&code=4/0AdkVLPwy1lJ9vmd8WisNHMNNAvQ0cccn46d64ihfycxjDgK-P-Yz2gtbmwBFrn0J6CwmnA&scope=https://www.googleapis.com/auth/gmail.readonly HTTP/1.1" 200 65
+2026-06-29 02:52:41,516  track.gmail             Saved read token -> gmail_token.json
+2026-06-29 02:52:41,522  googleapiclient.discovery_cache  file_cache is only supported with oauth2client<4.0.0
+2026-06-29 02:53:30,243  googleapiclient.discovery_cache  file_cache is only supported with oauth2client<4.0.0
+2026-06-29 02:53:35,355  track.gmail             Scanned 25 messages, 0 job-relevant.
+2026-06-29 03:07:18,163  googleapiclient.discovery_cache  file_cache is only supported with oauth2client<4.0.0
+2026-06-29 03:07:53,902  orchestrator.ceo        === CareerOS run — Bharadwaj Rachuri ===
+2026-06-29 03:08:07,374  googleapiclient.discovery_cache  file_cache is only supported with oauth2client<4.0.0
+2026-06-29 03:08:07,992  job.collector           Collected 160 jobs.
+2026-06-29 03:08:07,996  job.cleaner             Cleaned: 146/160 kept.
+2026-06-29 03:08:08,002  verify.ghost            Ghost score 0 (looks genuine): Senior Product Manager, FinCrime
+2026-06-29 03:08:08,018  verify.ghost            Ghost score 0 (looks genuine): Senior Cloud Architect - GCP
+2026-06-29 03:08:08,024  verify.ghost            Ghost score 0 (looks genuine): Machine Learning Systems Engineer
+2026-06-29 03:08:08,028  verify.ghost            Ghost score 0 (looks genuine): Research Engineer, AI Systems / LLM Agents
+2026-06-29 03:08:08,033  verify.ghost            Ghost score 0 (looks genuine): Research Engineer, Quantum Computing, DeepMind
+2026-06-29 03:08:08,039  verify.ghost            Ghost score 0 (looks genuine): Agentic AI Engineer (life sciences)
+2026-06-29 03:08:08,042  verify.ghost            Ghost score 0 (looks genuine): Principal AI Engineering Manager
+2026-06-29 03:08:08,046  verify.ghost            Ghost score 0 (looks genuine): Data Engineering Manager
+2026-06-29 03:08:08,050  verify.ghost            Ghost score 0 (looks genuine): AI Integration Engineer
+2026-06-29 03:08:08,053  verify.ghost            Ghost score 0 (looks genuine): Lead Data Engineer - London
+2026-06-29 03:08:08,057  verify.ghost            Ghost score 0 (looks genuine): AI Security Engineer
+2026-06-29 03:08:08,061  verify.ghost            Ghost score 0 (looks genuine): Product Engineer
+2026-06-29 03:08:08,068  resume.pdf              Wrote cover_156_Ellison_Institute_of_Technology.txt
+2026-06-29 03:08:08,393  resume_factory.tailor   Tailored resume -> CV_Ellison_Institute_of_Technology_Product_Engineer.docx (ATS keywords covered: 2)
+2026-06-29 03:08:08,399  apply.browser           Application prepared; held at human-approval gate.
+2026-06-29 03:08:08,405  track.applications      Job 156 -> matched
+2026-06-29 03:08:08,406  verify.ghost            Ghost score 0 (looks genuine): Senior Engineer (ML Engineer)
+2026-06-29 03:08:08,411  verify.ghost            Ghost score 0 (looks genuine): Staff Machine Learning Ops Engineer
+2026-06-29 03:08:08,416  resume.pdf              Wrote cover_158_Preply.txt
+2026-06-29 03:08:08,474  resume_factory.tailor   Tailored resume -> CV_Preply_Staff_Machine_Learning_Ops_Eng.docx (ATS keywords covered: 1)
+2026-06-29 03:08:08,478  apply.browser           Application prepared; held at human-approval gate.
+2026-06-29 03:08:08,489  track.applications      Job 158 -> matched
+2026-06-29 03:08:08,490  verify.ghost            Ghost score 0 (looks genuine): Manager, Applied AI Engineering, DeepMind
+2026-06-29 03:08:08,494  verify.ghost            Ghost score 0 (looks genuine): Machine Learning Engineer
+2026-06-29 03:08:08,499  verify.ghost            Ghost score 0 (looks genuine): Product Manager - Company Events
+2026-06-29 03:08:08,503  verify.ghost            Ghost score 0 (looks genuine): Senior Data Management Professional - Data Engineering (Shared Infrastructure)
+2026-06-29 03:08:08,506  verify.ghost            Ghost score 0 (looks genuine): Data Scientist
+2026-06-29 03:08:08,510  verify.ghost            Ghost score 0 (looks genuine): Senior Software Engineer - MVS
+2026-06-29 03:08:08,514  verify.ghost            Ghost score 0 (looks genuine): Lead Data Scientist
+2026-06-29 03:08:08,518  verify.ghost            Ghost score 0 (looks genuine): AI Data Engineer
+2026-06-29 03:08:08,521  verify.ghost            Ghost score 0 (looks genuine): Director of Platform Engineering
+2026-06-29 03:08:08,524  verify.ghost            Ghost score 0 (looks genuine): Account Executive, Mid-Market
+2026-06-29 03:08:08,530  verify.ghost            Ghost score 0 (looks genuine): Senior Software Engineer I – Search and AI Platform
+2026-06-29 03:08:08,534  verify.ghost            Ghost score 0 (looks genuine): Software Engineering Manager, AI Platform
+2026-06-29 03:08:08,537  verify.ghost            Ghost score 0 (looks genuine): Child & Community Impact Narrative & Data Specialist
+2026-06-29 03:08:08,541  verify.ghost            Ghost score 0 (looks genuine): Senior Deal Desk Manager, EMEA
+2026-06-29 03:08:08,545  verify.ghost            Ghost score 0 (looks genuine): AI Engineer
+2026-06-29 03:08:08,549  verify.ghost            Ghost score 0 (looks genuine): Lead AI Engineer
+2026-06-29 03:08:08,553  verify.ghost            Ghost score 0 (looks genuine): Principal, Strategic AI Advisory EMEA
+2026-06-29 03:08:08,557  verify.ghost            Ghost score 0 (looks genuine): Data Engineering Manager
+2026-06-29 03:08:08,561  verify.ghost            Ghost score 0 (looks genuine): Senior Software Engineer II - Data Engineering
+2026-06-29 03:08:08,565  verify.ghost            Ghost score 0 (looks genuine): Pricing Strategy & Operations
+2026-06-29 03:08:08,569  verify.ghost            Ghost score 0 (looks genuine): Senior Product Security Engineer
+2026-06-29 03:08:08,572  verify.ghost            Ghost score 0 (looks genuine): GI Europe New Business Sales Specialist - Financials
+2026-06-29 03:08:08,577  verify.ghost            Ghost score 0 (looks genuine): Sustainability Intern
+2026-06-29 03:08:08,581  verify.ghost            Ghost score 0 (looks genuine): Staff Data Scientist
+2026-06-29 03:08:08,585  verify.ghost            Ghost score 0 (looks genuine): Senior I Stat Prog Lead
+2026-06-29 03:08:08,588  verify.ghost            Ghost score 0 (looks genuine): R&D Data Architect
+2026-06-29 03:08:08,592  verify.ghost            Ghost score 0 (looks genuine): Senior Data Scientist II
+2026-06-29 03:08:08,596  verify.ghost            Ghost score 0 (looks genuine): Statistical Programmer
+2026-06-29 03:08:08,601  verify.ghost            Ghost score 0 (looks genuine): Software Engineer
+2026-06-29 03:08:08,604  verify.ghost            Ghost score 0 (looks genuine): Clinical Research Physician
+2026-06-29 03:08:08,608  verify.ghost            Ghost score 0 (looks genuine): Analytics Manager-FTC
+2026-06-29 03:08:08,613  verify.ghost            Ghost score 0 (looks genuine): 1011-384 Marine Habitats Ecologist & Surveyor - D Grade - July 2026
+2026-06-29 03:08:08,616  verify.ghost            Ghost score 0 (looks genuine): Data Analyst
+2026-06-29 03:08:08,619  verify.ghost            Ghost score 0 (looks genuine): Commercial Insights Leader
+2026-06-29 03:08:08,622  verify.ghost            Ghost score 0 (looks genuine): Senior Product Manager (Remote)
+2026-06-29 03:08:08,628  verify.ghost            Ghost score 0 (looks genuine): Python Software Engineer
+2026-06-29 03:08:08,633  verify.ghost            Ghost score 0 (looks genuine): Senior Platform Engineer
+2026-06-29 03:08:08,638  verify.ghost            Ghost score 0 (looks genuine): Senior System Verification Engineer
+2026-06-29 03:08:08,642  verify.ghost            Ghost score 0 (looks genuine): DevOps Engineer
+2026-06-29 03:08:08,654  verify.ghost            Ghost score 0 (looks genuine): Security Engineer III
+2026-06-29 03:08:08,659  verify.ghost            Ghost score 0 (looks genuine): AI Data Engineer - KDB
+2026-06-29 03:08:08,663  verify.ghost            Ghost score 0 (looks genuine): Senior Computational Biologist
+2026-06-29 03:08:08,666  verify.ghost            Ghost score 0 (looks genuine): Data Engineering Lead
+2026-06-29 03:08:08,670  verify.ghost            Ghost score 0 (looks genuine): Pricing Analyst
+2026-06-29 03:08:08,673  verify.ghost            Ghost score 0 (looks genuine): Principal Software Engineer
+2026-06-29 03:08:08,678  verify.ghost            Ghost score 0 (looks genuine): Commodities Quantitative Analyst (Assistant Vice President)
+2026-06-29 03:08:08,682  verify.ghost            Ghost score 0 (looks genuine): Embedded C Software Engineer for Spacecraft technology
+2026-06-29 03:08:08,686  verify.ghost            Ghost score 0 (looks genuine): Oracle Database Engineer
+2026-06-29 03:08:08,690  verify.ghost            Ghost score 0 (looks genuine): Senior Engineer – Data Distribution Platform
+2026-06-29 03:08:08,694  verify.ghost            Ghost score 0 (looks genuine): Senior Technical Lead - Real Time Platform
+2026-06-29 03:08:08,698  verify.ghost            Ghost score 0 (looks genuine): Software Engineer III
+2026-06-29 03:08:08,701  verify.ghost            Ghost score 0 (looks genuine): Lead DevOps Engineer - Real Time Platform
+2026-06-29 03:08:08,705  verify.ghost            Ghost score 0 (looks genuine): Data Scientist
+2026-06-29 03:08:08,709  verify.ghost            Ghost score 0 (looks genuine): Sr. AI Threat Researcher
+2026-06-29 03:08:08,714  verify.ghost            Ghost score 0 (looks genuine): Graduate Software Developer Programme
+2026-06-29 03:08:08,718  verify.ghost            Ghost score 0 (looks genuine): Director, Sales Analytics
+2026-06-29 03:08:08,723  verify.ghost            Ghost score 0 (looks genuine): Technical Talent Lead
+2026-06-29 03:08:08,726  verify.ghost            Ghost score 0 (looks genuine): Software Engineer
+2026-06-29 03:08:08,731  verify.ghost            Ghost score 0 (looks genuine): Head of Technology - Data - 24m FTC
+2026-06-29 03:08:08,734  verify.ghost            Ghost score 0 (looks genuine): Talent Acquisition Partner
+2026-06-29 03:08:08,737  verify.ghost            Ghost score 0 (looks genuine): Master Data Management Specialist
+2026-06-29 03:08:08,741  verify.ghost            Ghost score 0 (looks genuine): Lead Software Engineering - Java/Python - Risk Data Platform & Strategy
+2026-06-29 03:08:08,745  verify.ghost            Ghost score 0 (looks genuine): Technical Specialist, Claude Code
+2026-06-29 03:08:08,749  resume.pdf              Wrote cover_221_Anthropic.txt
+2026-06-29 03:08:08,857  resume_factory.tailor   Tailored resume -> CV_Anthropic_Technical_Specialist_Claude_Co.docx (ATS keywords covered: 1)
+2026-06-29 03:08:08,863  apply.browser           Application prepared; held at human-approval gate.
+2026-06-29 03:08:08,869  track.applications      Job 221 -> matched
+2026-06-29 03:08:08,870  verify.ghost            Ghost score 0 (looks genuine): Salesforce Technical Business Analyst
+2026-06-29 03:08:08,874  verify.ghost            Ghost score 0 (looks genuine): ML Platform Engineer
+2026-06-29 03:08:08,879  verify.ghost            Ghost score 0 (looks genuine): Vice President, Data Science
+2026-06-29 03:08:08,883  verify.ghost            Ghost score 0 (looks genuine): AI Program Manager, P&C
+2026-06-29 03:08:08,886  verify.ghost            Ghost score 0 (looks genuine): Lead Software Engineer
+2026-06-29 03:08:08,889  verify.ghost            Ghost score 0 (looks genuine): Head of Toxicology
+2026-06-29 03:08:08,894  verify.ghost            Ghost score 0 (looks genuine): Data Scientist
+2026-06-29 03:08:08,902  resume.pdf              Wrote cover_228_Yolk_Recruitment_Ltd.txt
+2026-06-29 03:08:09,002  resume_factory.tailor   Tailored resume -> CV_Yolk_Recruitment_Ltd_Data_Scientist.docx (ATS keywords covered: 1)
+2026-06-29 03:08:09,012  apply.browser           Application prepared; held at human-approval gate.
+2026-06-29 03:08:09,020  track.applications      Job 228 -> matched
+2026-06-29 03:08:09,021  verify.ghost            Ghost score 0 (looks genuine): Robotics Deployment Engineer, Robotics Delivery & Packaging Innovation
+2026-06-29 03:08:09,028  resume.pdf              Wrote cover_229_Amazon.txt
+2026-06-29 03:08:09,112  resume_factory.tailor   Tailored resume -> CV_Amazon_Robotics_Deployment_Engineer_R.docx (ATS keywords covered: 2)
+2026-06-29 03:08:09,117  apply.browser           Application prepared; held at human-approval gate.
+2026-06-29 03:08:09,123  track.applications      Job 229 -> matched
+2026-06-29 03:08:09,123  verify.ghost            Ghost score 0 (looks genuine): Multi-skilled Senior Technician / RME Supervisor - Daventry UK, RME
+2026-06-29 03:08:09,128  verify.ghost            Ghost score 0 (looks genuine): House Parent
+2026-06-29 03:08:09,132  verify.ghost            Ghost score 0 (looks genuine): Die Casting Process Supervisor
+2026-06-29 03:08:09,136  verify.ghost            Ghost score 0 (looks genuine): Software Engineer
+2026-06-29 03:08:09,139  verify.ghost            Ghost score 0 (looks genuine): Head of Automation Engineering
+2026-06-29 03:08:09,142  verify.ghost            Ghost score 0 (looks genuine): Senior Mechanical / Product Engineer
+2026-06-29 03:08:09,147  verify.ghost            Ghost score 0 (looks genuine): Sales Engineer
+2026-06-29 03:08:09,150  verify.ghost            Ghost score 0 (looks genuine): Head of Automation Engineering
+2026-06-29 03:08:09,154  verify.ghost            Ghost score 0 (looks genuine): Senior Robotics Engineer
+2026-06-29 03:08:09,157  verify.ghost            Ghost score 0 (looks genuine): Senior Robotics & Lab Automation Engineer
+2026-06-29 03:08:09,161  verify.ghost            Ghost score 0 (looks genuine): Senior Solutions Architect, Physical AI and Robotics at NVAITC
+2026-06-29 03:08:09,166  verify.ghost            Ghost score 0 (looks genuine): Senior Design Engineer
+2026-06-29 03:08:09,169  verify.ghost            Ghost score 0 (looks genuine): Robotics Deployment Engineer, Robotics Delivery & Packaging Innovation
+2026-06-29 03:08:09,177  resume.pdf              Wrote cover_242_Amazon_UK_Services_Ltd_-_A10.txt
+2026-06-29 03:08:09,242  resume_factory.tailor   Tailored resume -> CV_Amazon_UK_Services_Ltd_A10_Robotics_Deployment_Engineer_R.docx (ATS keywords covered: 2)
+2026-06-29 03:08:09,247  apply.browser           Application prepared; held at human-approval gate.
+2026-06-29 03:08:09,252  track.applications      Job 242 -> matched
+2026-06-29 03:08:09,253  verify.ghost            Ghost score 0 (looks genuine): Operational Security Officer
+2026-06-29 03:08:09,256  verify.ghost            Ghost score 0 (looks genuine): Project Engineer (Automation & Robotics)
+2026-06-29 03:08:09,261  resume.pdf              Wrote cover_244_Rise_Technical_Recruitment.txt
+2026-06-29 03:08:09,321  resume_factory.tailor   Tailored resume -> CV_Rise_Technical_Recruitment_Project_Engineer_Automation_Ro.docx (ATS keywords covered: 1)
+2026-06-29 03:08:09,325  apply.browser           Application prepared; held at human-approval gate.
+2026-06-29 03:08:09,330  track.applications      Job 244 -> matched
+2026-06-29 03:08:09,331  verify.ghost            Ghost score 0 (looks genuine): L&D Manager (standalone)
+2026-06-29 03:08:09,335  verify.ghost            Ghost score 0 (looks genuine): Applied Scientist II, Strategic Account Services (SAS)
+2026-06-29 03:08:09,338  resume.pdf              Wrote cover_246_Amazon.txt
+2026-06-29 03:08:09,435  resume_factory.tailor   Tailored resume -> CV_Amazon_Applied_Scientist_II_Strategic.docx (ATS keywords covered: 2)
+2026-06-29 03:08:09,441  apply.browser           Application prepared; held at human-approval gate.
+2026-06-29 03:08:09,446  track.applications      Job 246 -> matched
+2026-06-29 03:08:09,447  verify.ghost            Ghost score 0 (looks genuine): Associate Director, Performance
+2026-06-29 03:08:09,451  verify.ghost            Ghost score 0 (looks genuine): Principal Research Scientist - Machine Learning
+2026-06-29 03:08:09,454  verify.ghost            Ghost score 0 (looks genuine): L&D Manager (standalone)
+2026-06-29 03:08:09,458  verify.ghost            Ghost score 0 (looks genuine): AI Inference Engineer QVAC (100% remote Worldwide)
+2026-06-29 03:08:09,463  verify.ghost            Ghost score 0 (looks genuine): AI Researcher
+2026-06-29 03:08:09,466  verify.ghost            Ghost score 0 (looks genuine): Sous Chef
+2026-06-29 03:08:09,469  verify.ghost            Ghost score 0 (looks genuine): Principal Biostatistician FSP - Late Phase Immunology and Neurology
+2026-06-29 03:08:09,472  verify.ghost            Ghost score 0 (looks genuine): Senior Data Scientist in ADVANCED ANALYTICS
+2026-06-29 03:08:09,476  verify.ghost            Ghost score 0 (looks genuine): Sr. Applied AI Solutions Architect, Amazon Connect
+2026-06-29 03:08:09,481  verify.ghost            Ghost score 0 (looks genuine): Higher Learning Teaching Assistant
+2026-06-29 03:08:09,485  verify.ghost            Ghost score 0 (looks genuine): Lead Data Scientist – Energy Domain
+2026-06-29 03:08:09,489  verify.ghost            Ghost score 0 (looks genuine): International Key Account Manager
+2026-06-29 03:08:09,493  verify.ghost            Ghost score 0 (looks genuine): Commercial Customer Success Manager, EMEA
+2026-06-29 03:08:09,498  verify.ghost            Ghost score 0 (looks genuine): Senior Marketing Data Analyst
+2026-06-29 03:08:09,500  verify.ghost            Ghost score 0 (looks genuine): Junior Data Analyst
+2026-06-29 03:08:09,504  verify.ghost            Ghost score 0 (looks genuine): Analytics Engineer
+2026-06-29 03:08:09,511  verify.ghost            Ghost score 0 (looks genuine): Supply Chain Performance and Budgeting Manager
+2026-06-29 03:08:09,515  verify.ghost            Ghost score 0 (looks genuine): Senior Workday Analyst - Security & Data
+2026-06-29 03:08:09,519  verify.ghost            Ghost score 0 (looks genuine): Data Analyst
+2026-06-29 03:08:09,522  verify.ghost            Ghost score 0 (looks genuine): Vice President, Business Technology Liaison- Data Analyst
+2026-06-29 03:08:09,526  verify.ghost            Ghost score 0 (looks genuine): Analyst - Commercial Analytics - SQL
+2026-06-29 03:08:09,530  verify.ghost            Ghost score 0 (looks genuine): Lead Data Analyst
+2026-06-29 03:08:09,534  verify.ghost            Ghost score 0 (looks genuine): Claims Quality Assurance Analyst
+2026-06-29 03:08:09,537  verify.ghost            Ghost score 0 (looks genuine): Analytics Associate Director
+2026-06-29 03:08:09,540  verify.ghost            Ghost score 0 (looks genuine): Senior Business Analyst (Data)
+2026-06-29 03:08:09,545  verify.ghost            Ghost score 0 (looks genuine): Transport Data Analyst
+2026-06-29 03:08:09,548  verify.ghost            Ghost score 0 (looks genuine): Business Operations Data Analyst
+2026-06-29 03:08:09,555  verify.ghost            Ghost score 0 (looks genuine): Data Analyst (SC & NPPV3)
+2026-06-29 03:08:09,559  verify.ghost            Ghost score 0 (looks genuine): Division IT Manager
+2026-06-29 03:08:09,565  verify.ghost            Ghost score 0 (looks genuine): Principle Engineer -HVDC Control & Protection System Application
+2026-06-29 03:08:09,570  verify.ghost            Ghost score 0 (looks genuine): ICOA Advanced Insights
+2026-06-29 03:08:09,576  verify.ghost            Ghost score 0 (looks genuine): Chief Magazine Editor, Nature
+2026-06-29 03:08:09,581  verify.ghost            Ghost score 0 (looks genuine): Director, Equity Risk (Global Lead)
+2026-06-29 03:08:09,585  verify.ghost            Ghost score 0 (looks genuine): UX Researcher, Search & Conversational Shopping
+2026-06-29 03:08:09,589  verify.ghost            Ghost score 0 (looks genuine): Senior Full Stack Software Engineer (Java / React )
+2026-06-29 03:08:09,592  verify.ghost            Ghost score 0 (looks genuine): Associate Professor in Pharmaceutical Science
+2026-06-29 03:08:09,598  verify.ghost            Ghost score 0 (looks genuine): Senior Backend Engineer, Subscriptions
+2026-06-29 03:08:09,600  verify.ghost            Ghost score 0 (looks genuine): Senior Multi-domain Architect (AI)
+2026-06-29 03:08:09,603  verify.ghost            Ghost score 0 (looks genuine): Area Manager
+2026-06-29 03:08:09,606  verify.ghost            Ghost score 0 (looks genuine): Technical Systems Administrator
+2026-06-29 03:08:09,611  verify.ghost            Ghost score 0 (looks genuine): Senior Product Designer
+2026-06-29 03:08:09,616  verify.ghost            Ghost score 0 (looks genuine): Member of Product Staff - Product Manager
+2026-06-29 03:08:09,620  verify.ghost            Ghost score 0 (looks genuine): Senior Software Engineer, C++
+2026-06-29 03:08:09,622  orchestrator.ceo        Prepared 8 applications (held at approval gate).
+2026-06-29 03:08:27,024  googleapiclient.discovery_cache  file_cache is only supported with oauth2client<4.0.0
+2026-06-29 03:08:45,544  track.gmail             Scanned 500 messages, 62 job-relevant.
+2026-06-29 03:09:29,023  track.gmail             Scanned 500 messages, 62 job-relevant.
+2026-06-29 03:09:49,711  track.gmail             Scanned 500 messages, 62 job-relevant.
+2026-06-29 03:13:21,702  googleapiclient.discovery_cache  file_cache is only supported with oauth2client<4.0.0
+2026-06-29 03:14:04,215  googleapiclient.discovery_cache  file_cache is only supported with oauth2client<4.0.0
+2026-06-29 03:14:45,440  track.gmail             Scanned 500 messages, 62 job-relevant.
+2026-06-29 03:15:25,621  track.gmail             Scanned 500 messages, 62 job-relevant.
+2026-06-29 03:17:01,090  orchestrator.ceo        === CareerOS run — Bharadwaj Rachuri ===
+2026-06-29 03:17:14,868  job.collector           Collected 160 jobs.
+2026-06-29 03:17:14,869  job.cleaner             Cleaned: 146/160 kept.
+2026-06-29 03:17:14,932  orchestrator.ceo        Prepared 0 applications (held at approval gate).
+2026-06-30 02:12:20,754  orchestrator.ceo        === CareerOS run — Bharadwaj Rachuri ===
+2026-06-30 02:12:33,864  job.collector           Collected 153 jobs.
+2026-06-30 02:12:33,864  job.cleaner             Cleaned: 134/153 kept.
+2026-06-30 02:12:33,867  verify.ghost            Ghost score 0 (looks genuine): MLOps Engineer
+2026-06-30 02:12:33,878  verify.ghost            Ghost score 0 (looks genuine): Data Scientist
+2026-06-30 02:12:33,884  verify.ghost            Ghost score 0 (looks genuine): Azure Data Engineer - SC Cleared - Machine Learning
+2026-06-30 02:12:33,889  verify.ghost            Ghost score 0 (looks genuine): Machine Learning Engineer 1
+2026-06-30 02:12:33,893  verify.ghost            Ghost score 0 (looks genuine): Senior Research Engineer
+2026-06-30 02:12:33,896  verify.ghost            Ghost score 0 (looks genuine): Senior Full Stack Engineer
+2026-06-30 02:12:33,901  verify.ghost            Ghost score 0 (looks genuine): Data Scientist
+2026-06-30 02:12:33,905  verify.ghost            Ghost score 0 (looks genuine): Customer AI Developer Specialist
+2026-06-30 02:12:33,909  verify.ghost            Ghost score 0 (looks genuine): Senior Full Stack Engineer
+2026-06-30 02:12:33,913  verify.ghost            Ghost score 0 (looks genuine): CNC Grinder
+2026-06-30 02:12:33,917  verify.ghost            Ghost score 0 (looks genuine): ML Engineer (PAD)
+2026-06-30 02:12:33,921  verify.ghost            Ghost score 0 (looks genuine): ML Engineer (CoreAI)
+2026-06-30 02:12:33,924  verify.ghost            Ghost score 0 (looks genuine): Director/Senior Director, Strategic Solutions
+2026-06-30 02:12:33,931  verify.ghost            Ghost score 0 (looks genuine): Senior Primary Design Engineer
+2026-06-30 02:12:33,934  verify.ghost            Ghost score 0 (looks genuine): AI Automation Engineer - SC Cleared
+2026-06-30 02:12:33,938  verify.ghost            Ghost score 0 (looks genuine): SC and NPPV3 Cleared AI Engineer
+2026-06-30 02:12:33,943  verify.ghost            Ghost score 0 (looks genuine): Senior Software Engineer
+2026-06-30 02:12:33,948  verify.ghost            Ghost score 0 (looks genuine): Senior Software Engineer
+2026-06-30 02:12:33,952  verify.ghost            Ghost score 0 (looks genuine): Senior C# Engineer - AI Native & Agentic Engineering, AWS, Lambda, SQS
+2026-06-30 02:12:33,955  verify.ghost            Ghost score 0 (looks genuine): Graduate Recruitment Consultant - FinTech & AI
+2026-06-30 02:12:33,959  verify.ghost            Ghost score 0 (looks genuine): Lead AI Platform Architect
+2026-06-30 02:12:33,961  verify.ghost            Ghost score 0 (looks genuine): Data Manager
+2026-06-30 02:12:33,965  verify.ghost            Ghost score 0 (looks genuine): Senior Primary Design Engineer
+2026-06-30 02:12:33,971  verify.ghost            Ghost score 0 (looks genuine): Data Scientist – GenAI & AI Engineering
+2026-06-30 02:12:33,974  verify.ghost            Ghost score 0 (looks genuine): Implementation Consultant
+2026-06-30 02:12:33,978  verify.ghost            Ghost score 0 (looks genuine): AI Solutions Engineer
+2026-06-30 02:12:33,983  verify.ghost            Ghost score 0 (looks genuine): Senior Software Engineer - AI
+2026-06-30 02:12:33,988  verify.ghost            Ghost score 0 (looks genuine): AI Automation Engineer
+2026-06-30 02:12:33,992  verify.ghost            Ghost score 0 (looks genuine): D&A and Master Data Specialist
+2026-06-30 02:12:33,996  verify.ghost            Ghost score 0 (looks genuine): Applied Scientist, Silicon and Systems Group Edge AI
+2026-06-30 02:12:33,999  verify.ghost            Ghost score 0 (looks genuine): Data Analyst
+2026-06-30 02:12:34,002  verify.ghost            Ghost score 0 (looks genuine): Business Development Manager
+2026-06-30 02:12:34,005  verify.ghost            Ghost score 0 (looks genuine): BI Product Lead
+2026-06-30 02:12:34,010  verify.ghost            Ghost score 0 (looks genuine): Lecturer in Quantitative Methods (Open specialism)
+2026-06-30 02:12:34,014  verify.ghost            Ghost score 0 (looks genuine): Data Analyst
+2026-06-30 02:12:34,018  verify.ghost            Ghost score 0 (looks genuine): Senior Python Software Engineer - To £75,000
+2026-06-30 02:12:34,021  verify.ghost            Ghost score 0 (looks genuine): Enterprise Architect AI Asset Manager Finance Banking London
+2026-06-30 02:12:34,025  verify.ghost            Ghost score 0 (looks genuine): Solutions Executive
+2026-06-30 02:12:34,030  verify.ghost            Ghost score 0 (looks genuine): Contract Electronics Engineer
+2026-06-30 02:12:34,033  verify.ghost            Ghost score 0 (looks genuine): Data Scientist
+2026-06-30 02:12:34,037  verify.ghost            Ghost score 0 (looks genuine): Junior Business Systems & Data Analyst
+2026-06-30 02:12:34,041  verify.ghost            Ghost score 0 (looks genuine): Data Scientist
+2026-06-30 02:12:34,044  verify.ghost            Ghost score 0 (looks genuine): Digital Developer Senior - Python / Django - SC Cleared
+2026-06-30 02:12:34,049  verify.ghost            Ghost score 0 (looks genuine): Python Developers (IT)
+2026-06-30 02:12:34,053  verify.ghost            Ghost score 0 (looks genuine): Solutions Engineer Full Stack Ruby Python React
+2026-06-30 02:12:34,058  verify.ghost            Ghost score 0 (looks genuine): Platform Engineer
+2026-06-30 02:12:34,062  verify.ghost            Ghost score 0 (looks genuine): MOD DV Cleared Senior Software Engineer
+2026-06-30 02:12:34,066  verify.ghost            Ghost score 0 (looks genuine): Principal Engineer (Payments)
+2026-06-30 02:12:34,071  verify.ghost            Ghost score 0 (looks genuine): Senior C++ Engineer
+2026-06-30 02:12:34,074  verify.ghost            Ghost score 0 (looks genuine): Senior C++ Engineer
+2026-06-30 02:12:34,079  verify.ghost            Ghost score 0 (looks genuine): Principal Engineer (Payments)
+2026-06-30 02:12:34,083  verify.ghost            Ghost score 0 (looks genuine): Software Engineer Backend Python Remote Hybrid
+2026-06-30 02:12:34,086  verify.ghost            Ghost score 0 (looks genuine): Python / Django Developer
+2026-06-30 02:12:34,091  verify.ghost            Ghost score 0 (looks genuine): Lead Broadcast Media Engineer SDVI ingest platforms
+2026-06-30 02:12:34,094  verify.ghost            Ghost score 0 (looks genuine): Senior Software Engineer
+2026-06-30 02:12:34,100  verify.ghost            Ghost score 0 (looks genuine): Senior Python Developer TypeScript Rust Security
+2026-06-30 02:12:34,105  verify.ghost            Ghost score 0 (looks genuine): Platform Automation Software Engineer (Python, Jinja2, AWS)
+2026-06-30 02:12:34,110  resume.pdf              Wrote cover_346_Spectrum_IT.txt
+2026-06-30 02:12:34,335  resume_factory.tailor   Tailored resume -> CV_Spectrum_IT_Platform_Automation_Software_E.docx (ATS keywords covered: 1)
+2026-06-30 02:12:34,342  apply.browser           Application prepared; held at human-approval gate.
+2026-06-30 02:12:34,349  track.applications      Job 346 -> matched
+2026-06-30 02:12:34,350  verify.ghost            Ghost score 0 (looks genuine): AI Engineer / ML Engineer
+2026-06-30 02:12:34,355  resume.pdf              Wrote cover_347_Sanderson.txt
+2026-06-30 02:12:34,408  resume_factory.tailor   Tailored resume -> CV_Sanderson_AI_Engineer_ML_Engineer.docx (ATS keywords covered: 1)
+2026-06-30 02:12:34,412  apply.browser           Application prepared; held at human-approval gate.
+2026-06-30 02:12:34,416  track.applications      Job 347 -> matched
+2026-06-30 02:12:34,417  verify.ghost            Ghost score 0 (looks genuine): Data Engineer (All Levels, Analytics & Platform) - UK Wide
+2026-06-30 02:12:34,420  verify.ghost            Ghost score 0 (looks genuine): AI/ML Engineer
+2026-06-30 02:12:34,425  verify.ghost            Ghost score 0 (looks genuine): AI Technical Product Manager
+2026-06-30 02:12:34,429  verify.ghost            Ghost score 0 (looks genuine): Software Engineering Lead / Applied AI Engineering
+2026-06-30 02:12:34,433  verify.ghost            Ghost score 0 (looks genuine): Staff ML Engineer, Gaia
+2026-06-30 02:12:34,436  resume.pdf              Wrote cover_352_Wayve.txt
+2026-06-30 02:12:34,507  resume_factory.tailor   Tailored resume -> CV_Wayve_Staff_ML_Engineer_Gaia.docx (ATS keywords covered: 1)
+2026-06-30 02:12:34,511  apply.browser           Application prepared; held at human-approval gate.
+2026-06-30 02:12:34,515  track.applications      Job 352 -> matched
+2026-06-30 02:12:34,517  verify.ghost            Ghost score 0 (looks genuine): Mechatronics Engineer
+2026-06-30 02:12:34,521  resume.pdf              Wrote cover_353_Jonathan_Lee_Recruitment.txt
+2026-06-30 02:12:34,583  resume_factory.tailor   Tailored resume -> CV_Jonathan_Lee_Recruitment_Mechatronics_Engineer.docx (ATS keywords covered: 1)
+2026-06-30 02:12:34,588  apply.browser           Application prepared; held at human-approval gate.
+2026-06-30 02:12:34,593  track.applications      Job 353 -> matched
+2026-06-30 02:12:34,593  verify.ghost            Ghost score 0 (looks genuine): Senior Robotics & Automation Engineer
+2026-06-30 02:12:34,598  verify.ghost            Ghost score 0 (looks genuine): Lead Mechanical Design Engineer
+2026-06-30 02:12:34,601  verify.ghost            Ghost score 0 (looks genuine): Maintenance Engineer (Electrical bias)
+2026-06-30 02:12:34,606  verify.ghost            Ghost score 0 (looks genuine): Senior Robotics & Automation Engineer
+2026-06-30 02:12:34,611  verify.ghost            Ghost score 0 (looks genuine): Lead Mechanical Design Engineer
+2026-06-30 02:12:34,615  verify.ghost            Ghost score 0 (looks genuine): Radar Instructor
+2026-06-30 02:12:34,619  verify.ghost            Ghost score 0 (looks genuine): Electrical & Controls Technician
+2026-06-30 02:12:34,623  verify.ghost            Ghost score 0 (looks genuine): Embedded Linux Developer
+2026-06-30 02:12:34,629  verify.ghost            Ghost score 0 (looks genuine): Regional Executive Chef
+2026-06-30 02:12:34,634  verify.ghost            Ghost score 0 (looks genuine): Relief Head Chef
+2026-06-30 02:12:34,638  verify.ghost            Ghost score 0 (looks genuine): General Assistant - Monday - Friday
+2026-06-30 02:12:34,642  verify.ghost            Ghost score 0 (looks genuine): Account Director - Hospitality, Catering
+2026-06-30 02:12:34,645  verify.ghost            Ghost score 0 (looks genuine): Chef De Partie
+2026-06-30 02:12:34,649  verify.ghost            Ghost score 0 (looks genuine): Food Service Assistant
+2026-06-30 02:12:34,654  verify.ghost            Ghost score 0 (looks genuine): Hospitality Assistant
+2026-06-30 02:12:34,658  verify.ghost            Ghost score 0 (looks genuine): Sous Chef
+2026-06-30 02:12:34,662  verify.ghost            Ghost score 0 (looks genuine): Design & Technology (DT) Teacher | Independent Day School | Worcester
+2026-06-30 02:12:34,666  verify.ghost            Ghost score 0 (looks genuine): Lead Data Scientist (Model Developer)
+2026-06-30 02:12:34,670  verify.ghost            Ghost score 0 (looks genuine): Data Scientist / Statistician
+2026-06-30 02:12:34,675  resume.pdf              Wrote cover_372_Capital_One_UK.txt
+2026-06-30 02:12:34,746  resume_factory.tailor   Tailored resume -> CV_Capital_One_UK_Data_Scientist_Statistician.docx (ATS keywords covered: 1)
+2026-06-30 02:12:34,750  apply.browser           Application prepared; held at human-approval gate.
+2026-06-30 02:12:34,754  track.applications      Job 372 -> matched
+2026-06-30 02:12:34,754  verify.ghost            Ghost score 0 (looks genuine): Lead Data Scientist (Associate Director)
+2026-06-30 02:12:34,760  verify.ghost            Ghost score 0 (looks genuine): Fraud Associate
+2026-06-30 02:12:34,765  verify.ghost            Ghost score 0 (looks genuine): Data Analyst
+2026-06-30 02:12:34,769  verify.ghost            Ghost score 0 (looks genuine): Graduate Data Analyst
+2026-06-30 02:12:34,772  verify.ghost            Ghost score 0 (looks genuine): Senior Data Engineer
+2026-06-30 02:12:34,777  verify.ghost            Ghost score 0 (looks genuine): Part time Data Analyst / Inputter
+2026-06-30 02:12:34,781  verify.ghost            Ghost score 0 (looks genuine): SharePoint Business Analyst - £380p/d Inside IR35
+2026-06-30 02:12:34,785  verify.ghost            Ghost score 0 (looks genuine): PPM Data Migration Analyst
+2026-06-30 02:12:34,788  verify.ghost            Ghost score 0 (looks genuine): Data Analyst Apprenticeship
+2026-06-30 02:12:34,790  verify.ghost            Ghost score 0 (looks genuine): Software Engineer - eDV
+2026-06-30 02:12:34,795  verify.ghost            Ghost score 0 (looks genuine): Power BI Developer
+2026-06-30 02:12:34,799  verify.ghost            Ghost score 0 (looks genuine): FP&A Data Analyst
+2026-06-30 02:12:34,804  verify.ghost            Ghost score 0 (looks genuine): Data Analyst
+2026-06-30 02:12:34,807  verify.ghost            Ghost score 0 (looks genuine): Finance Business Systems Analyst
+2026-06-30 02:12:34,811  verify.ghost            Ghost score 0 (looks genuine): Financial Analyst
+2026-06-30 02:12:34,814  verify.ghost            Ghost score 0 (looks genuine): Commercial Excellence Analyst
+2026-06-30 02:12:34,819  verify.ghost            Ghost score 0 (looks genuine): Senior Applications Engineer (Modelling)
+2026-06-30 02:12:34,823  verify.ghost            Ghost score 0 (looks genuine): Product Designer (UI/UX)
+2026-06-30 02:12:34,827  verify.ghost            Ghost score 0 (looks genuine): Staff Product Manager, International Growth & Expansion
+2026-06-30 02:12:34,831  verify.ghost            Ghost score 0 (looks genuine): Senior AI Agents Developers - NEW YORK CITY - $500k
+2026-06-30 02:12:34,835  verify.ghost            Ghost score 0 (looks genuine): Research Fellow
+2026-06-30 02:12:34,839  verify.ghost            Ghost score 0 (looks genuine): Senior Power Electronics Engineer
+2026-06-30 02:12:34,844  verify.ghost            Ghost score 0 (looks genuine): Finance Functional Lead - Oracle
+2026-06-30 02:12:34,849  verify.ghost            Ghost score 0 (looks genuine): Technical Sales Manager (Electrical Engineering)
+2026-06-30 02:12:34,853  verify.ghost            Ghost score 0 (looks genuine): Applications Engineer
+2026-06-30 02:12:34,856  verify.ghost            Ghost score 0 (looks genuine): Industrial Designer
+2026-06-30 02:12:34,861  verify.ghost            Ghost score 0 (looks genuine): Senior Systems Engineer
+2026-06-30 02:12:34,866  verify.ghost            Ghost score 0 (looks genuine): Director, Search & AI Evaluation
+2026-06-30 02:12:34,869  verify.ghost            Ghost score 0 (looks genuine): Senior Data Engineer
+2026-06-30 02:12:34,872  orchestrator.ceo        Prepared 5 applications (held at approval gate).
+2026-06-30 02:12:57,223  orchestrator.ceo        === CareerOS run — Bharadwaj Rachuri ===
+2026-06-30 02:13:09,522  job.collector           Collected 153 jobs.
+2026-06-30 02:13:09,522  job.cleaner             Cleaned: 134/153 kept.
+2026-06-30 02:13:09,591  orchestrator.ceo        Prepared 0 applications (held at approval gate).
+2026-06-30 08:01:08,964  track.gmail             Saved read token -> gmail_token.json
+2026-06-30 08:01:08,981  googleapiclient.discovery_cache  file_cache is only supported with oauth2client<4.0.0
+2026-06-30 08:03:05,147  track.gmail             Scanned 500 messages, 72 job-relevant.

@@ -1,0 +1,14 @@
+Dear Hiring Team,
+
+I am applying for the Python Developer role at Noir. [REVIEW: one honest, specific sentence on why this company.]
+
+During my MSc in Artificial Intelligence and Robotics (Commendation,
+University of Hertfordshire), I published peer-reviewed research in IJRES on
+PPO-based dexterous in-hand manipulation with the Shadow Hand, achieving a
+175-degree rotation (97.2% of target) over 70,000+ timesteps. My most relevant strengths here include python, ppo, docker, sql, java.
+
+I hold a Graduate Visa with full right to work in the UK and am available
+immediately.
+
+Kind regards,
+Bharadwaj Rachuri
